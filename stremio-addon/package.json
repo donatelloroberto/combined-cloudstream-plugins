@@ -1,0 +1,18 @@
+{
+  "name": "anonymous-gaytorrents-stremio-addon",
+  "version": "1.0.0",
+  "description": "Anonymous Gay Torrents – Stremio Addon providing gay torrent catalogs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
