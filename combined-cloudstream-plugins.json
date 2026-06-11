@@ -1,0 +1,8 @@
+{
+  "name": "combined-cloudstream-plugins",
+  "description": "This Repo Contains NSFW Content!",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://github.com/donatelloroberto/combined-cloudstream-plugins/blob/main/plugins.json"
+  ]
+}
